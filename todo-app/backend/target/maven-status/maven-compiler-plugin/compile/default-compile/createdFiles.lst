@@ -1,0 +1,7 @@
+com\todoapp\TodoAppApplication.class
+com\todoapp\config\CorsConfig.class
+com\todoapp\service\TarefaService.class
+com\todoapp\model\StatusTarefa.class
+com\todoapp\controller\TarefaController.class
+com\todoapp\model\Tarefa.class
+com\todoapp\repository\TarefaRepository.class
