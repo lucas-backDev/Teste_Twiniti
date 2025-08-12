@@ -104,6 +104,8 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ### 🏗️ 2. Configuração e Execução do Backend
 
+**CLONE O REPOSITÓRIO DA FORMA QUE PREFERIR**
+
 1.  **Navegue até a pasta `backend`** do projeto:
     \`\`\`bash
     cd todo-app/backend
