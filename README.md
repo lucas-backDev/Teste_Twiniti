@@ -4,7 +4,7 @@
 
 Este é um sistema completo de gerenciamento de tarefas (To-Do List) desenvolvido para demonstrar a integração entre um backend robusto em Java Spring Boot e um frontend moderno em React/Next.js. A aplicação permite aos usuários adicionar, listar, editar, excluir e filtrar tarefas de forma intuitiva e eficiente.
 
-O projeto foi construído com foco em boas práticas de desenvolvimento, responsividade, design moderno e escalabilidade, incluindo diferenciais como Docker, testes unitários e pipelines de CI/CD.
+O projeto foi construído com foco em boas práticas de desenvolvimento, responsividade, design moderno e escalabilidade.
 
 ---
 
