@@ -120,6 +120,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
     spring.datasource.password=SUA_SENHA_AQUI
     \`\`\`
 3.  **Compile e execute a aplicação Spring Boot**:
+
     \`\`\`bash
     mvn clean compile # Limpa e compila o projeto
 
