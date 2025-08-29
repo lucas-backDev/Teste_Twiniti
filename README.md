@@ -122,6 +122,8 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 3.  **Compile e execute a aplicação Spring Boot**:
     \`\`\`bash
     mvn clean compile # Limpa e compila o projeto
+
+
     mvn spring-boot:run # Executa a aplicação
     \`\`\`
     *   O Hibernate criará automaticamente a tabela `tarefas` no seu banco de dados `todoapp`.
